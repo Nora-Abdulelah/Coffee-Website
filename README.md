@@ -9,6 +9,7 @@ A responsive and modern coffee shop landing page built with **HTML**, **CSS**, a
 
 ## 📁 Project Structure
 coffee-website/
+
 ├── index.html          
 ├── style.css           
 ├── script.js           
